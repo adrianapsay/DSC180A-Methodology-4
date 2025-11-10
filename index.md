@@ -1,6 +1,6 @@
 # Student & Section Information
 Name: Adrian Apsay<br>
-UCSD Email Address: adapsay@ucsd.edu<br>
+UCSD Email Address: adapsay@ucsd.edu<br><br>
 Section: A07<br>
 Mentor: Ryan Lingo<br>
 
@@ -12,4 +12,4 @@ placeholder
 3. **What is a potential change you’d make to the approach taken in your current Quarter 1 Project?**<br>
 placeholder
 4. **What other techniques would you be interested in using in your project?**<br>
-5. placeholder
+placeholder
